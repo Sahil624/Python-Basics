@@ -1,12 +1,12 @@
 # Python-Basics
-This is Repositry of Python Basics.
+## This is Repositry of Python Basics.
 
-It Includes.
+### It Includes.
 
--> Dungen Game
+1. Dungen Game
 
--> Number Guessing Game
+2. Number Guessing Game
 
--> Letter Guessing Game
+3. Letter Guessing Game
 
--> Shopping list game
+4. Shopping list game
