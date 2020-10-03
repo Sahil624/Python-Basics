@@ -20,7 +20,7 @@ def game():
 			guesses.append(guess)
 
 	else:
-		print("You din't get It my number was {}".format(secret))
+		print("Oops !! ,you din't get it my number was {}".format(secret))
 
 		choice = input("Do You want to play game again. Y/n")
 
@@ -28,6 +28,6 @@ def game():
 			game()
 
 		else:
-			print("Bye!!")
+			print("You played it well . Thanks for using it , Bye!!")
 
 game()
